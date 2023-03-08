@@ -1,0 +1,11 @@
+- criar pasta usando github web:
+Add file, Create new file, digitar nome da pasta/ 
+criar arquivo
+botão commit
+
+- enviar pasta usando github web:
+Add file, Upload files, choose your files, arrastar pasta para github
+botão commit
+
+
+
